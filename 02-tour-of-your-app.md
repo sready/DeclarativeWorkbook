@@ -1,6 +1,6 @@
 # Module 2: Tour of your App
 
-![](images/02-tour-of-your-app.png)
+![](https://github.com/sready/DeclarativeWorkbook/blob/master/images/02-tour-of-your-app.png)
 
 1. **Force.com app menu** 
   - Shows the apps that you are available to you. The app you just created is selected.
