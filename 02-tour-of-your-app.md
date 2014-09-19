@@ -1,6 +1,6 @@
 # Module 2: Tour of your App
 
-![](https://github.com/sready/DeclarativeWorkbook/blob/master/images/02-tour-of-your-app.png)
+<img src="https://github.com/sready/DeclarativeWorkbook/blob/master/images/02-tour-of-your-app.png" />
 
 1. **Force.com app menu** 
   - Shows the apps that you are available to you. The app you just created is selected.
@@ -21,3 +21,6 @@ An app is composed of tabs, but the tabs don’t have to be related to each othe
 For example, if you refer to the Accounts tab a lot, you can add that to the Salesforce Request App. You can switch between apps you created, bought, or installed by selecting them from the menu.
 
 
+markdownpdf().from("/Users/sready/Downloads/salesforce-admin-workshop-gh-pages/02-tour-of-your-app.md").to("/Users/sready/Documents/adminWorkbook/02-tour-of-your-app.pdf", function () {
+  console.log("Done")
+})
