@@ -18,7 +18,7 @@ In this exercise we will create the page layouts.
 
 7. Now that we are back in the Page Layout Editor let’s remove fields that aren’t relevant to a Feature Request. To do that click on the following fields and drag them _into_ the retractable toolbox called the palette (highlighted in the following image)
 
-![](images/04-page-layout-editor.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/04-page-layout-editor.png)
 
   a. Drag the following fields to the palette:
     User First & Last Name
@@ -64,4 +64,4 @@ Scroll down to the Page Layouts section of the Salesforce Request Object.
 
 7. Click Save.
 
-![](images/04-add-page-layout-to-object.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/04-add-page-layout-to-object.png)

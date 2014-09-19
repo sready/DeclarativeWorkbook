@@ -13,13 +13,13 @@ Schema Builder provides details such as the field values, required fields, and h
 
 1. From the Objects Palette select the **Salesforce Request** and **User** objects.
 
-![](images/03-schema-builder-data-model.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/03-schema-builder-data-model.png)
 
 1. Now letâ€™s add an Admin Comments field using the Schema Builder. Click on the **Elements Tab**.
 
 1. Then click and drag the `Long Text Field` from the Palette to the Salesforce Request Object.
 
-![](images/11-schema-builder-drag-field.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/11-schema-builder-drag-field.png)
 
 1. Fill in the details:
     Field Label: Admin Comments
@@ -34,11 +34,11 @@ You have just added an Admin Comments field to the Salesforce request. Now letâ€
 
 1. Uncheck every box in the visible column by clicking Visible at the top twice.
 
-![](images/11-schema-builder-field-permissions.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/11-schema-builder-field-permissions.png)
 
 1. Check only the System Administrator in the Visible column.
 
-![](images/11-schema-builder-field-permissions-admin-only.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/11-schema-builder-field-permissions-admin-only.png)
 
 1. Click Save.
 

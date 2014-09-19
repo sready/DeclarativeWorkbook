@@ -18,6 +18,6 @@ In this tutorial you’ll start by using the final option, because this is an ea
 
 2. Copy and paste your Salesforce instance into the address bar of the new tab, and add /one/one.app to the end. For example, if your Salesforce instance has an URL of https://na4.salesforce.com, use https://na4.salesforce.com/one/one.app.
 
-![](images/07-salesforce1-app-url.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/07-salesforce1-app-url.png)
 
 You should now see the mobile browser version of Salesforce1. Find the ‘Salesforce Request’ app in the left nav bar, navigate the app as a user and log a Salesforce request.

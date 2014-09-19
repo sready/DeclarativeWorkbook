@@ -37,7 +37,7 @@ You should already be in the New Record Type wizard, so you can create the Featu
 
 Another benefit of adding Record Types is that now we can limit the picklist values based on the Record Type the user selects. In the following exercise we will edit the Request Category picklist value for the Feature Request Record Type we just created.
 
-![](images/05-record-type-feature-request.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/05-record-type-feature-request.png)
 
 1. Next to Request Category click Edit.
 
@@ -45,13 +45,13 @@ Another benefit of adding Record Types is that now we can limit the picklist val
 
 3. Then Click **Save**.
 
-![](images/05-record-type-request-category.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/05-record-type-request-category.png)
 
 Repeat the same process for the User Request Record Type having only the User Activation, User Deactivation, and Change User Privileges as selected values.
 
 Remember the **Remove** button will move highlighted values from the **Selected Values** column to the **Available Values** column. The **Add** button will move highlighted values from the **Available Values** Column to the **Selected Values** column. 
 
-![](images/05-record-type-request-category-picklist.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/05-record-type-request-category-picklist.png)
 
 ## Try out the App
 Click the New button and fill out a Salesforce Request. How is the experience different now that we added Record Types and Page Layouts? What are some ways we can automate and add logic to this app?

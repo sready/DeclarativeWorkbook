@@ -12,7 +12,7 @@ First we’ll turn our simple tabular report into a slightly fancier summary rep
 
 4. Click **Run Report**.
 
-![](images/09-summary-report.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/09-summary-report.png)
 
 The report is now grouped by `Request Category`, and it includes the sum of the requests. To  Save this report click **Save As** and enter `Salesforce Requests: By Category` as the name.
 
@@ -34,4 +34,4 @@ It’s often a good idea to give users a visual way to understand the data in yo
 
 The Pie Chart shows the total number of Salesforce Requests by Category.
 
-![](images/09-summary-report-pie-chart.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/09-summary-report-pie-chart.png)

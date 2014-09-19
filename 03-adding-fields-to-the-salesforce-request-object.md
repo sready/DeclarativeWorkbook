@@ -6,7 +6,7 @@ Your DE org comes with many standard objects (for example, Accounts, Products, T
 
 The following image is a sneak peek of the data model you will be building, which allows you to view your objects, fields, and relationships.
 
-![](images/03-schema-builder-data-model.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/03-schema-builder-data-model.png)
 
 Our Salesforce Request object will have fields that the user can populate so that the Salesforce Admin has the information they need create a new User or feature in Salesforce. You can add custom fields to list or track just about anything. In this section we will add a variety of fields to our new Salesforce Request Object.
 
@@ -186,7 +186,7 @@ This field will automatically calculate the formula fields that derives its valu
 
 4. Click the `Check Syntax` button to check for syntax errors. if you do find errors, fix them before proceeding.
 
-![](images/03-formula-field.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/03-formula-field.png)
 
 5. Click **Next** and **Next** again to accept the default field visibility and security settings.
 
@@ -198,6 +198,6 @@ This field will automatically calculate the formula fields that derives its valu
 
 Click on the Salesforce Request tab at the top, then click the New button and fill out a Salesforce Request. 
 
-![](images/03-salesforce-requests-new.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/03-salesforce-requests-new.png)
 
 How easy is it to fill out a request?

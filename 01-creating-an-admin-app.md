@@ -17,11 +17,11 @@ You can create an app with just a few clicks. In this exercise we will create a 
   - For the Label, type **Salesforce Request**
   - For the Plural Label, type **Salesforce Requests**
 
-![](images/01-app-quick-start.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/01-app-quick-start.png)
 
 5. Click **Create** and you see right away some of the functionality that’s automatically added.
 
-![](images/01-app-all-set.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/01-app-all-set.png)
 
 6. Click **Go To My App** to see your new app.
 

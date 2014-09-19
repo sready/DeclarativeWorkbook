@@ -17,7 +17,7 @@ In this exercise you will create a simple tabular report to show the number of S
 
 6. Click OK to accept the default 10 row limit.
 
-![](images/08-report-salesforce-requests-filter.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/08-report-salesforce-requests-filter.png)
 
 ## Viewing only Open Request
 To make sure we are only viewing open requests lets add a filter of `Request Status = Open, Working` (Be sure to click on the magnifying glass to choose your values).
@@ -38,7 +38,7 @@ To make sure we are only viewing open requests lets add a filter of `Request Sta
 
 6. Click **Save and Run Report**.
 
-![](images/08-report-salesforce-requests-run.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/08-report-salesforce-requests-run.png)
 
 You can get fancy with reports, but that’s all you need from this one. And as you’ll soon see, even this simple report gives you a lot of functionality. The following list are a few of the things you can do in the Report Wizard, and not necessarily with this report.
 

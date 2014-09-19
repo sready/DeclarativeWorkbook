@@ -8,11 +8,11 @@ In this exercise you will create a new dashboard that’s powered by the reports
 
 1. Click the editor’s **Components** tab, then drag the **Pie Chart** component and drop it in the first column of the new Dashboard.
 
-![](images/10-dashboard-add-pie-chart.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/10-dashboard-add-pie-chart.png)
 
 1. Now click the editor’s **Data Sources** tab, and under **Reports >  Unfiled Public Reports**, drag the `Salesforce Requests: By Category` report and drop it on top of the Pie Chart component that in the dashboard.
 
-![](images/10-dashboard-add-pie-chart-data-source.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/10-dashboard-table-data-source.png)
 
 1. Add a header title of `Salesforce Requests` by clicking on the **Edit Header**.
 
@@ -26,11 +26,11 @@ That was so easy. Why not play around with adding a different type of dashboard 
 
 1. Click Edit, and this time use a Table component in the second column.
 
-![](images/10-dashboard-add-table.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/10-dashboard-add-table.png)
 
 1. Your Data Source for this component will be the Salesforce Requests: Days Open report.
 
-![](images/10-dashboard-table-data-source.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/10-dashboard-table-data-source.png)
 
 1. Then click Remove this column (the X icon) in the header of the third column to remove the unused third column from the layout. Click **Save**
 
@@ -39,7 +39,7 @@ That was so easy. Why not play around with adding a different type of dashboard 
 
 After you close the editor the dashboard then runs automatically. Your Dashboard should look something like the one below.
 
-![](images/10-dashboard-table-refresh.png)
+![](https://raw.githubusercontent.com/sready/DeclarativeWorkbook/master/images/10-dashboard-table-refresh.png)
 
 ## Tell me more...
 
